@@ -5,6 +5,6 @@ lotus-ent-website
 ├── style.css
 │
 └── images
-    ├── website pictures1.jpg
-    ├── website pictures2.jpg
-    └── website pictures3.jpg
+    ├── website_pictures1.jpg
+    ├── website_pictures2.jpg
+    └── website_pictures3.jpg
